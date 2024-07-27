@@ -4,8 +4,8 @@ app = Dash(__name__)
 server = app.server
 
 app.layout = [
-    html.H1('Welcome in Dash!'),
-    html.Div('Test version 0.5')
+    html.H1('Welcome in Dash public repo!'),
+    html.Div('Test version 0.1')
 ]
 
 if __name__ == '__main__':
