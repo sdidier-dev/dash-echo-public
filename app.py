@@ -5,7 +5,7 @@ server = app.server
 
 app.layout = [
     html.H1('Welcome in Dash public repo!'),
-    html.Div('Test version 0.1')
+    html.Div('Test version 0.2')
 ]
 
 if __name__ == '__main__':
